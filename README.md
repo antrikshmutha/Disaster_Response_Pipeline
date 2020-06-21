@@ -42,12 +42,13 @@ Now, open another Terminal Window.
 Type
 
 env|grep WORK
-You'll see output that looks something like this:
 
+this will give you the spaceid (it will start with view*** and some characters after that)
 
 In a new web browser window, type in the following:
 
 https://SPACEID-3001.SPACEDOMAIN
+
 In this example, that would be: "https://viewa7a4999b-3001.udacity-student-workspaces.com/" (Don't follow this link now, this is just an example.)
 
 Your SPACEID might be different.
@@ -55,5 +56,5 @@ Your SPACEID might be different.
 You should be able to see the web app. The number 3001 represents the port where your web app will show up. Make sure that the 3001 is part of the web address you type in.
 
 ## Acknowledgements
-Udacity: For providing an end to end Data Science Program
+Udacity: For providing an end to end Data Science Program <br>
 Figure Eight: For providing the Dataset for this project
